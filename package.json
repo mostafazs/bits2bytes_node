@@ -1,0 +1,38 @@
+{
+  "name": "bits2bytes",
+  "title": "Bits2Bytes",
+  "version": "1.0.0",
+  "description": "Convert any computer date units to each other easily.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafazs/bits2bytes_node.git"
+  },
+  "keywords": [
+    "bits2bytes",
+    "convert",
+    "conversion",
+    "bit",
+    "byte",
+    "kilobite",
+    "killobyte",
+    "megabit",
+    "megabyte",
+    "gigabit",
+    "gigabyte",
+    "terabit",
+    "terabyte"
+  ],
+  "licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/MIT"
+		}
+	],
+  "author": "Mostafa Ziasistani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mostafazs/bits2bytes_node/issues"
+  },
+  "homepage": "https://github.com/mostafazs/bits2bytes_node#readme"
+}
