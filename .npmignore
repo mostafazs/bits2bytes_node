@@ -1,0 +1,5 @@
+/dev
+dev.txt
+/node_modules
+.gitignore
+/.git
